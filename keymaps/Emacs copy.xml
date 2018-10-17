@@ -1,0 +1,37 @@
+<keymap version="1" name="Emacs copy" parent="Emacs">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="ChooseDebugConfiguration">
+    <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="ctrl r" />
+  </action>
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="r" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="alt semicolon" />
+    <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="semicolon" />
+  </action>
+  <action id="Debug" />
+  <action id="EditorPasteFromX11" />
+  <action id="EmmetNextEditPoint" />
+  <action id="EmmetPreviousEditPoint" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="n" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="shift alt close_bracket" />
+    <mouse-shortcut keystroke="button5" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift alt open_bracket" />
+    <mouse-shortcut keystroke="button4" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="l" />
+  </action>
+  <action id="Run" />
+</keymap>
