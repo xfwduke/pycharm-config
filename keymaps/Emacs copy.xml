@@ -19,6 +19,9 @@
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="i" />
+  </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="n" />
   </action>
