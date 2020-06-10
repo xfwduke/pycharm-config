@@ -33,6 +33,9 @@
     <keyboard-shortcut first-keystroke="shift alt open_bracket" />
     <mouse-shortcut keystroke="button4" />
   </action>
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="t" />
+  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="l" />
   </action>

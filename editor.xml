@@ -3,6 +3,9 @@
     <option name="REFORMAT_ON_PASTE" value="1" />
     <option name="INDENT_TO_CARET_ON_PASTE" value="true" />
   </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="SHOW_METHOD_SEPARATORS" value="true" />
+  </component>
   <component name="DefaultFont">
     <option name="FONT_FAMILY" value="Monospaced" />
   </component>
@@ -14,5 +17,6 @@
     </option>
     <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="false" />
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
+    <option name="ENABLE_RENDERED_DOC" value="true" />
   </component>
 </application>
